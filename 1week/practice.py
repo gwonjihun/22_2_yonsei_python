@@ -1,0 +1,5 @@
+a = int(input("첫 번쨰 정수는?"))
+b = int(input("두 번쨰 정수는?"))
+c = int(input("세 번쨰 정수는?"))
+answer= format(a+b+c,",")
+print(f"{a}과 {b}과 {c}의 합은 {answer}이다.")
