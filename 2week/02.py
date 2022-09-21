@@ -1,0 +1,8 @@
+strs = input()
+print(strs[1:4])
+print(strs[4:])
+print(strs[:4])
+print(strs[:])
+print(strs[-1])
+print(strs[1:6])
+print(strs[4:]*3)
